@@ -1,7 +1,7 @@
 {
   "name": "Inventario D&C",
   "short_name": "Inventario",
-  "start_url": "./Index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#FFD700",
